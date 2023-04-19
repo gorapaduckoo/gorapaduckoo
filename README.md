@@ -1,4 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Jiyoung%20Lee&height=200&fontAlign=75&fontAlignY=40)
+
+<div align="center">
+
+  ### Hi there 👋
+  
+</div>
+
 
 <!--
 **gorapaduckoo/gorapaduckoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
