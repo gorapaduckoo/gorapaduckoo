@@ -24,12 +24,6 @@
 
 </br>
 </br>
-
-### 💻Algorithm
-
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jioung93)](https://solved.ac/jioung93)
-
 </div>
 
 
@@ -48,4 +42,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 💻Algorithm
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jioung93)](https://solved.ac/jioung93)
+
 -->
