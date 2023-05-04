@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Jiyoung%20Lee&height=200&fontAlign=75&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=200&fontAlign=75&fontAlignY=40)
 
 <div align="center">
 
