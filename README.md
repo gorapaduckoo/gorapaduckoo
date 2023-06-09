@@ -24,6 +24,10 @@
 
 </br>
 </br>
+
+![Gorapaduckoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorapaduckoo&show_icons=true&theme=aura_dark)
+</br>
+</br>
 </div>
 
 
