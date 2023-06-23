@@ -3,7 +3,9 @@
 <div align="center">
 
 ### 🔗Links
+<!--
   <a href="https://gorapaduckoo.notion.site/JIYOUNG-LEE-d35ca66c67de426ea4100076a3f8dce9"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  -->
   <a href="https://velog.io/@gorapaduckoo"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
 </br>
